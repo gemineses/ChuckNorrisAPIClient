@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#chuckMainImage{
+    position: absolute;
+}
+
+#categoriesBox{
+    position: relative;
+}
+
+#chuckMainImage img{
+    position: relative;
+}
+
+#jokeBox{
+    width: 400px;
+    top: 65px;
+    right: 100px;
+    position: absolute;
+    text-align: justify;
+    border-bottom: white 1px solid;
+}
